@@ -267,7 +267,7 @@ a {
 .slide kbd, .slide code, .slide samp {
     padding: 3px 8px;
     border-radius: 8px;
-    background: #DF9D00;
+    background: #f27b29;
     color: #000;
     -moz-tab-size: 4;
     -o-tab-size: 4;
@@ -363,13 +363,13 @@ a {
 .slide pre mark {
     padding: 3px 8px;
     border-radius: 8px;
-    background: #DF9D00;
+    background: #f27b29;
     color: #000;
     font-style: normal;
 }
 
 .slide pre mark.important {
-    background: #DF9D00;
+    background: #f27b29;
     color: #FFF;
     font-weight: 400;
 }
